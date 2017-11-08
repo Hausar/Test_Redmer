@@ -1,0 +1,4 @@
+Warning in <TInterpreter::ReadRootmapFile>: class  ROOT::Math::LorentzVector<ROOT::Math::PtEtaPhiM4D<float> > found in libPWGLFnuclex  is already in libGenVector.so 
+Warning in <TInterpreter::ReadRootmapFile>: class  ROOT::Math::PtEtaPhiM4D<float> found in libPWGLFnuclex  is already in libGenVector.so 
+Warning in <TInterpreter::ReadRootmapFile>: class  AliT0AnalysisTaskQA found in libT0calib  is already in libPWGPP 
+myTask.sh: line 40: free: command not found
