@@ -7,7 +7,7 @@
 
 void runAnalysis()
 {   
-    // we can make two extra Bool_t grid = KTRUE
+    // we can make two extra Bool_t grid = KTRUE or Bool_t grid = KFALSE 
     // set if you want to run the analysis locally (kTRUE), or on grid (kFALSE)
     Bool_t local = kFALSE;
     // if you run on grid, specify test mode (kTRUE) or full grid model (kFALSE)
